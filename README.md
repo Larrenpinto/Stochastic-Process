@@ -36,7 +36,7 @@ Financial markets are inherently uncertain and governed by a combination of rand
 
 3. **Simulation of Future Paths**  
    - 1000 future state sequences are generated based on the transition probabilities.
-   - Each path covers 72 months (6 years).
+   - Each path covers 12 months (1 year).
 
 4. **Mapping to Price Movements**  
    - States are converted to price changes: -1, 0, +1 and cumulatively summed.
