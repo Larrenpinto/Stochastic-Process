@@ -6,7 +6,7 @@ This project demonstrates how **Markov Chains** can be used to model and forecas
 
 ## 📄 Abstract
 
-This project explores the use of **Markov Chains** in financial modeling by simulating future gold price movements. Gold price returns are categorized into discrete states—up, down, and stable—to construct a transition probability matrix. Using this, 1000 future price paths are generated over a 6-year forecast horizon. The project visualizes the average and individual simulated paths, providing insights into long-term trends and market volatility. This method offers a practical and interpretable framework for forecasting and risk analysis in finance.
+This project explores the use of **Markov Chains** in financial modeling by simulating future gold price movements. Gold price returns are categorized into discrete states—up, down, and stable—to construct a transition probability matrix. Using this, 1000 future price paths are generated over a 1-year forecast horizon. The project visualizes the average and individual simulated paths, providing insights into long-term trends and market volatility. This method offers a practical and interpretable framework for forecasting and risk analysis in finance.
 
 ---
 
